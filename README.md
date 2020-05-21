@@ -22,7 +22,7 @@ venta de celulares
 - nueva datos a realizar
 
 ## cambios realizados en blogs.v1
-- nueva datos a realizar
+- Requerimientos funcionales y no funcionales
 
 |FUNCIONALES      |DESCRIPCION|
 |-----------------|-----------|
