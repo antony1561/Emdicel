@@ -7,8 +7,6 @@ venta de celulares
 ##requerimientos
 |software |version| pagina|
 |---------|-------|-------|
-| sqlite  | paste |  $6   |
-| tuesday | chiken|  $8   |
 | lunes   |samsung|  $500 |
 | martes  | lg    |  $200 |
 |miercoles| sony  |  $300 |
