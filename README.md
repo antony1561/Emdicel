@@ -14,3 +14,5 @@ venta de celulares
 |miercoles| sony  |  $300 |
 | jueves  | xiaomi|  $180 |
 | viernes | nokia |  $960 |
+## como desplegar la aplicacion 
+- para desplegar la aplicacion se realiza lo sgt:
