@@ -16,5 +16,5 @@ venta de celulares
 - para desplegar la aplicacion se realiza lo sgt:
 ## cambios a realizar en powershell 
 - cambios realizados para mi proyecto
-## cambios realizados en Dev.v1
+## cambios realizados en dev.v1
 - nueva datos a realizar
