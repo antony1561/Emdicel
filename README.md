@@ -24,20 +24,18 @@ venta de celulares
 ## cambios realizados en blogs.v1
 - nueva datos a realizar
 
-##requerimientos
 |FUNCIONALES      |DESCRIPCION|
 |-----------------|-----------|
 | RF1             |Contara con registrarse con cuenta de facebook o gmail      |
 | RF2             |Mostrara la vision , mision y normas de la empresa          |
 | RF3             |Los clientes podran verificar la disponibilidad del producto|
 | RF4             |La aplicacion debe estar disponible para su descarga en play store|
-| viernes         |Debe ser compatible con las utlimas versiones de Android y Windows phone |
+| RF5             |Debe ser compatible con las utlimas versiones de Android y Windows phone |
 
-##requerimientos
 |NO FUNCIONALES   |DESCRIPCION|
 |-----------------|-----------|
 | RNF1            |La aplicacion debe ser facil de usar                        |
 | RNF2            |La interfas debe ser amigable e intuitiva                   |
 | RNF3            |Debe mostrsar tiempo de respuesta rapida                    |
 | RNF4            |facil de descargar e instalar                               |
-| viernes         |Debe mantener los datos almacenados y protegidos            |
+| RNF5            |Debe mantener los datos almacenados y protegidos            |
